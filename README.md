@@ -19,9 +19,10 @@ A responsive Netflix UI clone built using **HTML, CSS, and JavaScript**, inspire
 
 ---
 
+
 ## 📸 Preview
 
-<img width="1710" alt="Netflix Clone Screenshot 1" src="https://github.com/user-attachments/assets/d29b113e-d741-4be0-9edd-359f03b9bad1" />
+<img width="1710" height="888" alt="Screenshot 2025-12-23 at 2 59 12 PM" src="https://github.com/user-attachments/assets/27c25181-8a9c-413d-ba7f-f7db18dda19e" />
 <img width="1457" alt="Netflix Clone Screenshot 3" src="https://github.com/user-attachments/assets/c4eeeb29-9298-4e70-ab7a-ee27df4357d3" />
 <img width="1648" alt="Netflix Clone Screenshot 2" src="https://github.com/user-attachments/assets/150fff36-c4fe-4e49-86f9-3118a147e0d6" />
 
